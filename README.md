@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/596589597.svg)](https://zenodo.org/badge/latestdoi/596589597)
+
 # easyFL: A Lightning Framework for Federated Learning
 
 This repository is PyTorch implementation for paper **CADIS: Handling Cluster-skewed Non-IID Data in Federated Learning with Clustered Aggregation and Knowledge DIStilled Regularization** which is accepted by CCGRID-23 Conference.
